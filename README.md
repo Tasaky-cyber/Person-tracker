@@ -26,4 +26,4 @@ compare two people by neural network feature extract
 write in main file
 
 ### wait to fix  
-Poor ability of siamese network,need light and high accuracy Deal the problem until i had more time 
+Poor ability of siamese network,need light and high accuracy. Deal the problem until i had more time 
