@@ -5,19 +5,19 @@
 > 2. download tolov4-tiny.cft and yolov4-tiny.weights from https://github.com/Tianxiaomo/pytorch-YOLOv4 ,and put those two in yoloIOT  
 
 execute main.py, work!!!  
-# Production
+## Production
 <p align="center">
   
 https://user-images.githubusercontent.com/55420081/148530210-101bac02-8213-409e-987f-8fc721088c21.mp4 
   
 </p>  
 
-### flow
+## flow
 gui interfence >>> yolov4 >>> tracking algorithm >>> if loss, start refind (stage1:reblock, stage2:long range search)>>if get retrack, else lose tracking  
 ![螢幕擷取畫面 2022-01-07 180032](https://user-images.githubusercontent.com/55420081/148527232-ce3b96b6-ad4c-41b5-ac94-307d6ec07968.png)  
 
 
-### cmp_person_similarity  
+## cmp_person_similarity  
 compare two people by neural network feature extract  
 1. perdict.py for (two picture compare)  
 2. predict_from_dataset.py (input a picture compare the whole dataset,will get a avg similarity)  
