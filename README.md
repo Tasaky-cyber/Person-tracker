@@ -11,6 +11,15 @@ execute main.py, work!!!
 https://user-images.githubusercontent.com/55420081/148530210-101bac02-8213-409e-987f-8fc721088c21.mp4 
   
 </p>  
+<p align="center">
+  
+
+
+https://user-images.githubusercontent.com/55420081/148595922-08a7f80a-59b3-401e-8f91-d9964abd307b.mp4
+
+
+  
+</p>  
 
 ## flow
 gui interfence >>> yolov4 >>> tracking algorithm >>> if loss, start refind (stage1:reblock, stage2:long range search)>>if get retrack, else lose tracking  
