@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/55420081/148595922-08a7f80a-59b3-401e-
 </p>  
 
 ## flow
-gui interfence >>> yolov4 >>> tracking algorithm >>> if loss, start refind (stage1:reblock, stage2:long range search)>>if get retrack, else lose tracking  
+GUI interfence >>> yolov4 >>> tracking algorithm >>> if loss, start refind (stage1:reblock, stage2:long range search)>>if get retrack, else lose tracking  
 ![螢幕擷取畫面 2022-01-07 180032](https://user-images.githubusercontent.com/55420081/148527232-ce3b96b6-ad4c-41b5-ac94-307d6ec07968.png)  
 
 
